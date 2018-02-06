@@ -1,0 +1,22 @@
+body {
+    background-color: cadetblue;
+}
+h1 {
+    color: white;
+    font-family: monospace;
+    letter-spacing: 1.5vw;
+    padding: 5px;
+}
+div {
+    max-width: 700px;
+    padding: 5vw;
+    margin: 10% auto;
+    background-color: black;
+
+}
+div > * {
+    color: white;
+}
+.second {
+    opacity: .5;
+}
